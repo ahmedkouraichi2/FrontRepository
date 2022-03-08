@@ -1,0 +1,40 @@
+.container-main{
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.container-main{
+  display: flex;
+  align-items: center;
+
+}
+.form-authentification{
+  margin-left: 150px;
+
+
+
+}
+.label{
+ margin-left: 40px;
+ font-size: large;
+ margin-bottom: 30px;
+}
+.input{
+  margin-top: 50px;
+}
+.form-login{
+  margin-left: 100px;
+}
+.logo{
+  width: 500px;
+}
+.btn-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-submit{
+  background-color: green;
+  color: black;
+  margin-top: 15px;
+}
+
